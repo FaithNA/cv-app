@@ -1,8 +1,8 @@
 export default function Preview(){
     return (
-         <div className="Preview border-1 m-1 grid grid-rows-[0.3fr_0.7fr]">
-                <div className="sec border-1"></div>
-                <div className="sec border-1"></div>
+         <div className="Preview m-1 grid grid-rows-[0.2fr_0.8fr] p-2 gap-2">
+                <div className="sec border-1 rounded-md"></div>
+                <div className="sec border-1 rounded-md"></div>
             </div>
     )
 }
