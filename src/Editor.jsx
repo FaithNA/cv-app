@@ -8,6 +8,7 @@ export default function Editor(){
                 <PersonalInfo/>
                 <Education/>
                 <Experience/>
+                <button className="rounded bg-sky-500 hover:bg-sky-700 text-white pt-1 pb-1 pl-4 pr-4">Submit</button>
             </div>
 
 
